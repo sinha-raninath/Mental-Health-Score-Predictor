@@ -3,7 +3,7 @@
 /* =========================================================
    Configuration
    ========================================================= */
-const API_BASE_URL = 'http://127.0.0.1:2200';
+const API_BASE_URL = 'https://mental-health-score-predictor-2-j6j9.onrender.com';
 const REQUEST_TIMEOUT_MS = 20000;
 const MIN_LOADING_MS = 500; // keeps the loading state readable when the API answers instantly
 
